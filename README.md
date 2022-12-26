@@ -8,6 +8,7 @@
  rm -rf zhx
  git clone https://github.com/givi-xd/zhx
  cd zhx
+ mkdir data dump
  python run.py
 ```
 # HOW TO RUN?
